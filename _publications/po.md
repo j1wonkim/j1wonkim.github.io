@@ -4,9 +4,9 @@ collection: publications
 permalink: /research/po
 excerpt: ''
 date: 2023-06-04
-venue: 'Previous versions presented at 2022 MPSA, 2022 Georgia Area Human Rights Network (GAHRnet.), 2022 Peace Science Society'
+venue: 'PAP completed. Previous versions presented at 2022 MPSA, 2022 Georgia Area Human Rights Network (GAHRnet.), 2022 Peace Science Society'
 ---
 
 #### Abstract
 
-PAP completed. Please contact me for the most recent draft.
+Please contact me for the most recent draft.
