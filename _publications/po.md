@@ -9,4 +9,4 @@ venue: 'Previous versions presented at 2022 MPSA, 2022 Georgia Area Human Rights
 
 #### Abstract
 
-Contact for details.
+PAP completed. Please contact me for the most recent draft.
