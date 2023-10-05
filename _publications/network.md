@@ -8,4 +8,4 @@ venue: 'PAP completed, Presented at 2023 SouthEastern Rights Network (SERN) and 
 ---
 
 #### Abstract
-Contact for details.
+Analysis in progress. Please contact me for the most updated draft.
