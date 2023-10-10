@@ -1,5 +1,5 @@
 ---
-title: 'Claudia Yang'
+title: 'Maryam Olajuwon'
 layout: single
 date: 2023-10-04
 permalink: /maryam/
