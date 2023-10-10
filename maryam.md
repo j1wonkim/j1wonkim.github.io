@@ -4,8 +4,7 @@ layout: single
 date: 2023-10-04
 permalink: /maryam/
 ---
-Maryam Olajuwon
-===========
+
 Undergraduate Researcher, Fall 2023
 -------------------------------------
 
