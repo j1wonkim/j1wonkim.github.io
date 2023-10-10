@@ -4,8 +4,7 @@ layout: single
 date: 2023-10-04
 permalink: /claudia/
 ---
-Claudia Yang
-===========
+
 Undergraduate Researcher, Fall 2023
 -------------------------------------
 
