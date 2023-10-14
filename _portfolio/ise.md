@@ -35,6 +35,7 @@ I thank [Prodigy](https://prodi.gy/) for providing an academic license for this 
 * [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan - Jul 2022, coder)
 * [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan - Jul 2022, coder)
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022 - May 2023, coder)
+* Onew Choi (Jun - Aug 2022, coder)
 
 
 
