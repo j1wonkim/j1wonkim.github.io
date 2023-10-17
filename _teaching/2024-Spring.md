@@ -14,6 +14,8 @@ Instructor
 
 Course in development for Spring 2024.
 
+Preliminary Syllabus [Link](https://www.dropbox.com/scl/fi/63bukco071y0u8d2261k9/JK_syllabus_317_preliminary.pdf?rlkey=3wpo9qbbfe783h4uuks61b42a&dl=0)
+
 Course Objectives:
 
 How are human rights realized and limited under the intertwining of international and domestic politics? The course surveys the incentive structure of perpetrators, victims, defenders, and observers of repression/oppression, and how these actors interact with each other and the political and informational environment to produce the human rights practices, policies, and institutions as we see them. The course then releases the assumption that human rights norms and law are constant. The course will discuss the historical expansion of human rights norms, contestations, and its future, given what the preceding weeks inform us about how international and domestic politics of human rights work. Rather than focusing on the United States or any specific society, you will learn theories that generalize globally.
