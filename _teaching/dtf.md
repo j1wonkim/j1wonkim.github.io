@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Data Science \& Analysis for Social Scientists"
+title: "Introduction to Data Science & Analysis for Social Scientists"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/dtf
