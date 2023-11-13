@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 ### Research Goal
-Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are its implications for the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
+Why do countries talk about each other's human rights practices? Which human rights do each country focus on enforcing, and what are their implications for the future of human rights norms and the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ### News
 * Data collection for US shaming is at its final stage.
