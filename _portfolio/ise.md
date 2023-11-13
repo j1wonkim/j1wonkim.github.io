@@ -28,7 +28,9 @@ This research has been supported by undergraduate research credit course (POLS39
 ## Acknowledgements
 I thank [Prodigy](https://prodi.gy/) for providing an academic license for this project.
 
-## Former Members
+## Former members
+Our alumni have advanced into roles as state government policy analyst, medical research coordinator, med school (Brown), and PhD in Political Science (Emory).
+
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
 * Sandy Gonzalez (2021 Spring) 
