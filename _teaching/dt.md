@@ -9,4 +9,4 @@ location: "In-Person"
 ---
 
 
-This is a short weekly lecture in development for the purpose of effectively and efficiently advising five capstone projects.
+This is a short weekly lecture in development for DataThink (Capstone program).
