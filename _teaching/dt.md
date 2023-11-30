@@ -2,9 +2,11 @@
 title: "QTM DataThink: Intro to Data Science and Analysis"
 collection: teaching
 type: "Undergraduate"
-venue: "Course in Development"
+venue: "Emory University"
 date: 2024-05-01
 permalink: /teaching/dt
 location: "In-Person"
 ---
 
+
+This is a short weekly lecture in development for the purpose of effectively and efficiently advising five capstone projects.
