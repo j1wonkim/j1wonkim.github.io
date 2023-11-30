@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/ise
 excerpt: ''
 date: 2022-05-01
-venue: 'Previous version presented at 2021 Midwest Political Science Association (MPSA) Conference'
+venue: 'Additional data collection completed, Previous version presented at 2021 Midwest Political Science Association (MPSA) Conference'
 ---
 
 #### Abstract
