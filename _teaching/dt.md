@@ -1,5 +1,5 @@
 ---
-title: "QTM DataThink: Intro to Data Science and Analysis"
+title: "DataThink: Intro to Data Science and Analysis"
 collection: teaching
 type: "Undergraduate"
 venue: "Emory University, Department of Quantitative Theory and Methods"
