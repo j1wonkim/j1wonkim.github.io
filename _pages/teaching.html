@@ -10,3 +10,11 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+I have TAed for the following courses:
+
+{% include base_path %}
+
+{% for post in site.ta reversed %}
+  {% include archive-single.html %}
+{% endfor %}
