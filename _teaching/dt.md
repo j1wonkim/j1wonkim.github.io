@@ -1,5 +1,5 @@
 ---
-title: "DataThink: Intro to Data Science and Analysis"
+title: "Intro to Data Science and Analysis"
 collection: teaching
 type: "Undergraduate"
 venue: "Emory University, Department of Quantitative Theory and Methods"
@@ -9,4 +9,4 @@ location: "In-Person"
 ---
 
 
-This is a short weekly lecture in development for DataThink (Capstone program).
+Short weekly lecture in development, DataThink (Capstone program)
