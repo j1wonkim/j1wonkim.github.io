@@ -9,4 +9,4 @@ location: "In-Person"
 ---
 
 
-Course in development, Emerging Security Fellows program (Summer 2024).
+Course in development, Emerging Security Fellows program (Summer 2024)
