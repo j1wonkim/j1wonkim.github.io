@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "POLS110: Introduction to International Politics"
 collection: ta
 type: "Undergraduate"
