@@ -15,6 +15,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.categories.ta reversed %}
+{% for post in site.ta reversed %}
   {% include archive-single.html %}
 {% endfor %}
