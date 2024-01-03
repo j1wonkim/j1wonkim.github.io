@@ -1,6 +1,6 @@
 ---
 title: "POLS110: Introduction to International Politics"
-collection: ta
+collection: teaching
 type: "Undergraduate"
 permalink: /ta/2021-spring
 venue: "Emory University, Department of Political Science"
