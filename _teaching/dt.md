@@ -1,5 +1,5 @@
 ---
-title: "Intro to Data Science and Analysis"
+title: "Real-world Data Science and Analytics"
 collection: teaching
 type: "Undergraduate"
 venue: "Emory University, Department of Quantitative Theory and Methods"
