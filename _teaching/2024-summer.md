@@ -1,7 +1,7 @@
 ---
 title: "Intro to Research Design and Methods"
 collection: teaching
-type: "Undergraduate"
+type: "UG"
 venue: "Emory University, Department of Political Science"
 date: 2024-07-01
 permalink: /teaching/2024-summer
