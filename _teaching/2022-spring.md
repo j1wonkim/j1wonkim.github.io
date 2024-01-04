@@ -1,7 +1,7 @@
 ---
 title: "POLS490R: Research in Human Rights"
 collection: teaching
-type: "Undergraduate"
+type: "UG"
 permalink: /teaching/2022-spring
 venue: "Emory University, Department of Political Science"
 date: 2022-01-10
