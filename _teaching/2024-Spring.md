@@ -1,7 +1,7 @@
 ---
 title: "POLS 317: Global Human Rights"
 collection: teaching
-type: "Undergraduate"
+type: "UG"
 permalink: /teaching/2024-spring
 venue: "Emory University, Department of Political Science"
 date: 2024-01-14
