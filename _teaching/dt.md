@@ -1,7 +1,7 @@
 ---
 title: "Real-world Data Science and Analytics"
 collection: teaching
-type: "Undergraduate"
+type: "UG"
 venue: "Emory University, Department of Quantitative Theory and Methods"
 date: 2024-05-01
 permalink: /teaching/dt
