@@ -12,7 +12,7 @@ location: "In-person"
 
 Instructor
 
-Syllabus [Link](https://www.dropbox.com/scl/fi/ma0o91pu089uhhato2wso/JK_syllabus_317_v010224.pdf?rlkey=vi0lrt2pakn7jepre1avlcuev&dl=0)
+Syllabus [Link](https://www.dropbox.com/scl/fi/gk8o0d14xidgq20siy03l/JK_syllabus_317_v010524.pdf?rlkey=tctlm7rt2e40j8rakwr7wvsmi&dl=0)
 
 Office Hours Booking Page for Students [Link](https://outlook.office365.com/owa/calendar/POLS317OfficeHours@mscloud.emory.net/bookings/)
 
