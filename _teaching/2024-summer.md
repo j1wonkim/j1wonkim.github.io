@@ -1,5 +1,5 @@
 ---
-title: "Intro to Research Design and Methods"
+title: "Research Design and Computational Methods"
 collection: teaching
 type: "UG"
 venue: "Emory University, Department of Political Science"
