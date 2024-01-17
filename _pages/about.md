@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Political Science and a graduate fellow in the Department of Quantitative Theory and Methods at Emory University. I lead the [International Shaming Events Initiative (ISEI)](https://j1wonkim.github.io/portfolio/ise/) with a team of undergraduate students at Emory.
+I am a Ph.D. candidate in the Department of Political Science and a graduate fellow in the Department of Quantitative Theory and Methods at Emory University.
 
 I study how international and domestic politics shape human rights norms (and vice versa). My dissertation addresses human rights rhetoric as a part of US diplomacy and develops a measurement of state shaming intensity. My works use natural language processing (NLP), network analysis, and online survey experiments. 
  
