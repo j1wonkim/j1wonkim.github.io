@@ -10,3 +10,4 @@ location: "In-Person"
 
 
 Short weekly lecture in development, DataThink (Capstone program)
+- Topics include: data exploration workflow, handling CSVs, geospatial data, using census data via API, skipping errors in a loop, best Pandas join practice, Pandas indexing, how to handle missing values in data, visualization, communicating results to non-data audience
