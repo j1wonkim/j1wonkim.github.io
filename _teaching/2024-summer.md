@@ -10,3 +10,5 @@ location: "In-Person"
 
 
 Course in development, Emerging Security Fellows program (Summer 2024)
+- Session 1-10: Research Design Basics and Statistical Methods
+- Session 11-20: Data Collection, Exploration, and Modeling in Practice
