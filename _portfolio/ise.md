@@ -26,7 +26,7 @@ Why do countries talk about each other's human rights practices? Which human rig
 This research has been supported by undergraduate research credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon). I also thank [Prodigy](https://prodi.gy/) for providing an academic license.
 
 ## Former members
-Our alumni have advanced into roles/positions such as state government policy analyst, medical research coordinator, med school (Brown), and PhD in Political Science (Emory).
+Our alumni have advanced into positions such as state government policy analyst, medical research coordinator, med school (Brown), law school (UT Austin), and PhD in Political Science (Emory).
 
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
