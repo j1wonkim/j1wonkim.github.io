@@ -1,14 +1,14 @@
 ---
-title: "Research Design and Computational Methods"
+title: "Introduction to Data Analysis"
 collection: teaching
 type: "UG"
-venue: "Emory University, Department of Political Science"
+venue: "Carnegie Emerging Security Fellows Seminar at Emory University"
 date: 2024-07-01
 permalink: /teaching/2024-summer
 location: "In-Person"
 ---
 
 
-Course in development, Emerging Security Fellows program (Summer 2024)
-- Session 1-10: Research Design Basics and Statistical Methods
-- Session 11-20: Data Collection, Exploration, and Modeling in Practice
+Course in development (Summer 2024)
+- Session 1-6: Research Design Basics and Statistical Methods
+- Session 7-12: Data Collection, Exploration, and Modeling in Practice
