@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Political Science at Emory University.
+I am a Visiting Assistant Professor in the Department of Quantitative Theory and Methods at Emory University.
 
 I study how international and domestic politics shape human rights norms (and vice versa). My dissertation addresses human rights rhetoric as a part of US diplomacy and develops a measurement of state shaming intensity. My works use natural language processing (NLP), network analysis, and online survey experiments. 
  
