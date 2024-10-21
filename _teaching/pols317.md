@@ -3,9 +3,9 @@ title: "POLS 317: Global Human Rights"
 collection: teaching
 type: "UG"
 permalink: /teaching/pols317
-venue: "Emory University, Department of Political Science"
+venue: "Department of Political Science"
 date: 2024-01-14
-location: "In-person"
+location: "Emory University"
 ---
 
 Upper-level Elective
