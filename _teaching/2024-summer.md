@@ -9,6 +9,15 @@ location: "In-Person"
 ---
 
 
-Course in development (Summer 2024)
+3-week Summer Bootcamp
+
 - Session 1-6: Research Design Basics and Statistical Methods
+* Counterfactuals and estimation
+* Experimental design
+* Regression
+  
 - Session 7-12: Data Collection, Exploration, and Modeling in Practice
+* Qualtrics
+* R and R Studio
+* Summary statistics with R
+* Regression with R
