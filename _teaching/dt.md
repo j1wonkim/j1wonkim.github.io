@@ -3,7 +3,7 @@ title: "AI Data Lab"
 collection: teaching
 type: "UG"
 venue: "Emory University, Department of Quantitative Theory and Methods"
-date: 2024-05-01
+date: 2023-09-10
 permalink: /teaching/dt
 location: "In-Person"
 ---
