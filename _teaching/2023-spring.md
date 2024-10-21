@@ -1,11 +1,11 @@
 ---
 title: "Workshop: NLP as Research Methods"
 collection: teaching
-type: "G"
+type: "Graduate"
 permalink: /teaching/2023-spring
-venue: "Emory University, Department of Political Science"
+venue: "Department of Political Science"
 date: 2023-02-24
-location: "In-person"
+location: "Emory University"
 ---
 
 
