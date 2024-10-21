@@ -8,6 +8,6 @@ permalink: /teaching/capstone
 location: "Emory University"
 ---
 
-![flyer-capstone](/images/flyer.jpeg?raw=true){: width="30%"}
+![flyer-capstone](/images/flyer.jpeg?raw=true){: width="25%"}
 
 Receiving applications for Spring 2025
