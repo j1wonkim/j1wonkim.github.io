@@ -2,10 +2,10 @@
 title: "AI Data Lab"
 collection: teaching
 type: "UG"
-venue: "Emory University, Department of Quantitative Theory and Methods"
+venue: "Emory Center of AI Learning"
 date: 2023-09-10
 permalink: /teaching/dt
-location: "In-Person"
+location: "Emory University"
 ---
 
 Fall 2023, Spring 2024, Fall 2024
