@@ -8,4 +8,6 @@ permalink: /teaching/capstone
 location: "In-Person"
 ---
 
+Receiving applications for Spring 2025
+
 ![flyer-capstone](/images/flyer.jpeg?raw=true)
