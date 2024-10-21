@@ -8,4 +8,4 @@ permalink: /teaching/capstone
 location: "In-Person"
 ---
 
-![flyer-capstone](https://github.com/j1wonkim/j1wonkim.github.io/master/images/flyer.jpeg?raw=true)
+![flyer-capstone](https://github.com/j1wonkim/j1wonkim.github.io/tree/master/images/flyer.jpeg?raw=true)
