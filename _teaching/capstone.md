@@ -9,3 +9,5 @@ location: "In-Person"
 ---
 
 ![flyer-capstone](/images/flyer.jpeg?raw=true){: width="50%"}
+
+Receiving applications for Spring 2025
