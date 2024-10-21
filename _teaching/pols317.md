@@ -8,7 +8,7 @@ date: 2024-01-14
 location: "In-person"
 ---
 
-
+Upper-level Elective
 
 
 ## Syllabus
