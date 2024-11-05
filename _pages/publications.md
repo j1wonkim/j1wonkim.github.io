@@ -30,6 +30,6 @@ author_profile: true
  _with [David Davis](http://polisci.emory.edu/home/people/biography/davis-david.html), Accepted to present at Peace Science Society, 2023_
  
 ## Works in Progress
-**China project**
+**The Impact of Online Anti-Feminist Communities on Mainstream Discourse and Public Opinion in South Korea**
 
-_Data collection in progress, 2023_
+_Accepted to present at International Studies Association, 2025_
