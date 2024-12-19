@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Visiting Assistant Professor in the Department of Quantitative Theory and Methods and a Research Fellow at [the Center of AI Learning](https://ailearning.emory.edu/about/experiential-learning-research-fellows.html) at Emory University.
+I am a Visiting Assistant Professor in the Department of Quantitative Theory and Methods and a Research Fellow at [the Center of AI Learning](https://ailearning.emory.edu/) at Emory University.
 
 I study how international and domestic politics shape human rights norms (and vice versa). My dissertation addresses human rights rhetoric as a part of US diplomacy and develops a measurement of state shaming intensity. My works use natural language processing (NLP), network analysis, and online survey experiments. 
  
