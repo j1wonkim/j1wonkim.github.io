@@ -17,7 +17,6 @@ Why do countries talk about each other's human rights practices? Which human rig
 
 ## Related Projects
 * [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
-* [Defining Human Rights: Communities and Competition in the International Shaming Network](https://j1wonkim.github.io/research/network/)
 
 ## Acknowledgements
 This research has been supported by undergraduate research credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon). I also thank [Prodigy](https://prodi.gy/) for providing an academic license.
