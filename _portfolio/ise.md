@@ -12,9 +12,6 @@ Why do countries talk about each other's human rights practices? Which human rig
 ## Team
 ### Current Members
 * Jiwon Kim (Project Lead)
-* [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022 - current, Head RA)
-* [Maryam Olajuwon](https://j1wonkim.github.io/maryam/) (Fall 2023, RA)
-* [Claudia Yang](https://j1wonkim.github.io/claudia/) (Fall 2023, RA)
 
 <img src='/images/ISEI_picture_f23.jpg' alt = "Group Picture" width="400">
 
@@ -34,7 +31,9 @@ Our alumni have advanced into positions such as state government policy analyst,
 * [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan - Jul 2022, coder)
 * [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan - Jul 2022, coder)
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022 - May 2023, coder)
-* Onew Choi (Jun - Aug 2022, coder)
+* [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022 - May 2024, Head RA)
+* [Maryam Olajuwon](https://j1wonkim.github.io/maryam/) (Sep - Dec 2023, RA)
+* [Claudia Yang](https://j1wonkim.github.io/claudia/) (Sep - Dec 2023, RA)
 
 
 
