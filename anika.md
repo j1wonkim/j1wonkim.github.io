@@ -4,8 +4,7 @@ layout: single
 date: 2022-01-18
 permalink: /anika/
 ---
-Anika Kapur
-===========
+
 Undergraduate Researcher, Spring-Summer 2022
 -------------------------------------
 
