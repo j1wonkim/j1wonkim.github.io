@@ -1,13 +1,11 @@
 ---
-title: 'Celline'
+title: 'Celline Kim'
 date: 2022-1-18
 layout: single
 permalink: /celline/
 
 ---
 
-Celline Kim
-======
 Coder (Jan 2022 - May 2023)
 -----
 
