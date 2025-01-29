@@ -7,7 +7,10 @@ author_profile: true
 
 <h2>Mailing Address</h2>
 <address>
-  1555 Dickey Drive<br /> Tarbutton 327 <br /> Atlanta, GA, USA 30322
+  36 Eagle Row, <br/> 
+  PAIS 566 <br/>
+  Atlanta, GA 30322
+
 </address>
 
 
