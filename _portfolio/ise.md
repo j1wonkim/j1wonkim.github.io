@@ -11,7 +11,7 @@ Why do countries talk about each other's human rights practices? Which human rig
 
 ## Team
 ### Current Members
-* Jiwon Kim (Project Lead)
+* Jiwon Kim
 
 <img src='/images/ISEI_picture_f23.jpg' alt = "Group Picture" width="400">
 
