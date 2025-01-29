@@ -1,13 +1,11 @@
 ---
-title: 'Karina'
+title: 'Karina Nehra'
 date: 2022-1-18
 layout: single
 permalink: /karina/
 
 ---
 
-Karina Nehra
-======
 Undergraduate Researcher (Spring-Summer 2022)
 -----
 
