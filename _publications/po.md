@@ -9,4 +9,4 @@ venue: 'Pilot completed. Previous versions presented at 2022 MPSA, 2022 Georgia 
 
 #### Abstract
 
-Please contact me for the most recent draft.
+Analysis Completed. Please contact me for the most recent draft.
