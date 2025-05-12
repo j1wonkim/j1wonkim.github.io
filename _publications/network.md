@@ -8,4 +8,4 @@ venue: 'Preliminary Results, Presented at 2023 SouthEastern Rights Network (SERN
 ---
 
 #### Abstract
-Analysis in progress. Please contact me for the most updated draft.
+Analysis completed. Please contact me for the most updated draft.
