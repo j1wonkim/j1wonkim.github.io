@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiwon Kim"
 title_separator          : "-"
 name                     : &name "Jiwon Kim"
-description              : &description "Visiting Assistant Professor at Emory University"
+description              : &description ""
 url                      : https://j1wonkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j1wonkim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiwon (\"G-1\") Kim"
   avatar           : "headshot041823.jpg"
-  bio              : "Visiting Assistant Professor at Emory University"
+  bio              : ""
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiwon-kim-449975254/"
   orcid            : "https://orcid.org/0000-0002-5999-0032"
   pinterest        :
   soundcloud       :
