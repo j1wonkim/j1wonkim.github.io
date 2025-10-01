@@ -1,5 +1,5 @@
 ---
-title: "The International Shaming Events Initiative (ISEI)"
+title: "US Human Rights Rhetoric (USHR) Data"
 excerpt: ""
 collection: portfolio
 ---
@@ -7,22 +7,16 @@ collection: portfolio
 Why do countries talk about each other's human rights practices? Which human rights do each country focus on enforcing, and what are their implications for the future of human rights norms and the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ### News
-* Data collection for US shaming is at its final stage.
-
-## Team
-### Current Members
-* Jiwon Kim
-
-
+* Data collection for US shaming is completed.
 
 ## Related Projects
-* [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
+* [US Human Rights Rhetoric: Strategic Deployment of Shaming, Pressuring, and Praising](https://j1wonkim.github.io/research/ise)
 
 ## Acknowledgements
-This research has been supported by undergraduate research credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon). I also thank [Prodigy](https://prodi.gy/) for providing an academic license.
+This research has been supported by undergraduate research credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory's Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon). I also thank [Prodigy](https://prodi.gy/) for providing an academic license.
 
-## Former members
-Our alumni have advanced into positions such as state government policy analyst, medical research coordinator, med school (Brown), law school (UT Austin), and PhD in Political Science (Emory).
+## Former research assistants
+Our team alumni have advanced into positions such as state government policy analyst, medical research coordinator, med school (Brown), law school (UT Austin), and PhD in Political Science (Emory).
 
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
