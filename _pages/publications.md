@@ -10,12 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-### International human rights shaming
+
+## International human rights shaming
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-### Populist rhetoric
+## Populist rhetoric
 {% for post in site.populism %}
   {% include archive-single.html %}
 {% endfor %}
