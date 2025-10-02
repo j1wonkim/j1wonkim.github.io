@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Analysis"
-collection: teaching
+collection: teachingqtm
 venue: "Carnegie Emerging Security Fellows Seminar"
 date: 2024-07-01
 permalink: /teaching/2024-summer
