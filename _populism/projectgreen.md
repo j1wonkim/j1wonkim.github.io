@@ -1,5 +1,5 @@
 ---
-title: "Environmental Persuasion: Can Environmental Clauses Counter-Act Anti-Trade Rhetoric? (with Stefano Jud)" 
+title: "Environmental Persuasion: Can Environmental Clauses Counter-Act Anti-Trade Rhetoric?" 
 collection: populism
 permalink: /research/projectgreen/
 excerpt: 'with Stefano Jud'
