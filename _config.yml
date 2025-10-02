@@ -224,6 +224,15 @@ defaults:
       author_profile: true
       share: false
       comments: false
+  # _teachingqtm
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _ta
   - scope:
       path: ""
