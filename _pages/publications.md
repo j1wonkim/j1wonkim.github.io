@@ -19,6 +19,6 @@ author_profile: true
 
 ## Populist rhetoric
 
-{% for post in site.populism reversed %}
+{% for post in site.populism %}
   {% include archive-single.html %}
 {% endfor %}
