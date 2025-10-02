@@ -2,7 +2,7 @@
 title: "Introduction to Data Analysis"
 collection: teaching
 type: "UG"
-venue: "Carnegie Emerging Security Fellows Seminar at Emory University"
+venue: "Carnegie Emerging Security Fellows Seminar"
 date: 2024-07-01
 permalink: /teaching/2024-summer
 location: "In-Person"
