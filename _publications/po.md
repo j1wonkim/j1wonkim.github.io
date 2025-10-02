@@ -2,9 +2,6 @@
 title: "Public opinion cost and benefit of international shaming and abstention"
 collection: publications
 permalink: /research/po
-excerpt: ''
-date: 2023-06-04
-venue: ''
 ---
 
 #### Abstract
