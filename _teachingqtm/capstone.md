@@ -1,6 +1,6 @@
 ---
 title: "QTM 498 Quantitative Sciences Capstone"
-collection: teaching
+collection: teachingqtm
 date: 2025-01-01
 permalink: /teaching/capstone
 ---
