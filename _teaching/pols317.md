@@ -4,7 +4,7 @@ collection: teaching
 type: "UG"
 permalink: /teaching/pols317
 venue: "Department of Political Science"
-date: 2024-01-14
+date: 'Spring 2024'
 location: "Emory University"
 ---
 
