@@ -38,22 +38,23 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' and post.venue %}
+    {% if post.collection == 'teaching' and post.venue %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'teaching' and post.type%}
           <p> {{ post.type }}</p>
         {% elsif post.collection == 'teachingqtm' and post.venue %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'teachingqtm' and post.type%}
-          <p> {{ post.type }}</p>
-        {% elsif post.collection == 'publications' and post.venue %}
+          <p> {{ post.type }}</p>        
+    {% endif %}
+
+    {% if post.collection == 'publications' and post.venue %}
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.venue %}
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.excerpt %}
           <p><i>{{ post.excerpt }}</i></p>
-        
-        {% endif %}
+    {% endif %}
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
