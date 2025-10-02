@@ -5,7 +5,6 @@ type: "UG"
 venue: "Emory Center of AI Learning"
 date: 2023-09-10
 permalink: /teaching/dt
-location: "Emory University"
 ---
 
 Fall 2023, Spring 2024, Fall 2024
