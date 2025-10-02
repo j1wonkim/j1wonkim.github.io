@@ -184,6 +184,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  populism:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
