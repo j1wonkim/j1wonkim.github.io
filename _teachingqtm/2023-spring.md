@@ -1,6 +1,6 @@
 ---
 title: "Workshop: NLP as Research Methods"
-collection: teaching
+collection: teachingqtm
 type: "Graduate"
 permalink: /teaching/2023-spring/
 venue: "Guest lecture"
