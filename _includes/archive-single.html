@@ -32,29 +32,29 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+    
     
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p style="font-size: 15px; font-weight: normal;" class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
 
     {% if post.collection == 'publications' and post.venue %}
-          <p style="font-size: 12px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.venue %}
-          <p style="font-size: 12px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.excerpt %}
-          <p style="font-size: 12px;"><i>{{ post.excerpt }}</i></p>
+          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.excerpt }}</i></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p style="font-size: 15px; font-weight: normal;" >Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p style="font-size: 15px; font-weight: normal;">Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p style="font-size: 15px; font-weight: normal;">Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-
+</h3>
   </article>
 </div>
