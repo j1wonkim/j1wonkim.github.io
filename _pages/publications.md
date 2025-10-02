@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## International human rights shaming
+### International human rights shaming
 
 {% include base_path %}
 
@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Populist rhetoric
+### Populist rhetoric
 
 {% for post in site.populism %}
   {% include archive-single.html %}
