@@ -218,7 +218,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: posts
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -227,7 +227,7 @@ defaults:
   # _teachingqtm
   - scope:
       path: ""
-      type: posts
+      type: teachingqtm
     values:
       layout: single
       author_profile: true
