@@ -47,11 +47,11 @@
     {% if post.collection == 'teachingqtm'%}
         {% if post.type and not post.venue %}
           <p> {{ post.type }}</p>
-          {% endif %}
         {% elsif post.venue and not post.type%}
           <p> <i><{{ post.venue }}</i></p>
         {% elsif post.type and post.venue%}
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
+        {% endif %}
     {% endif %}
 
     {% if post.collection == 'publications' and post.venue %}
