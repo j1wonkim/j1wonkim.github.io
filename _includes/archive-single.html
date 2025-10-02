@@ -46,6 +46,11 @@
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.venue %}
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'publications' and post.excerpt %}
+          <p><i>{{ post.excerpt }}</i></p>
+        {% elsif post.collection == 'populism' and post.excerpt %}
+          <p><i>{{ post.excerpt }}</i></p>
+        
         {% endif %}
     
     {% if post.citation and post.paperurl %}
