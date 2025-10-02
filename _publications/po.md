@@ -1,5 +1,5 @@
 ---
-title: "Public opinion cost and benefit of international shaming and abstention"
+title: "Public Opinion Cost and Benefit of International Shaming and Abstention"
 collection: publications
 permalink: /research/po
 date: '2025-09-01'
