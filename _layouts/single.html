@@ -38,6 +38,10 @@ layout: default
           <p><i>{{ page.venue }}</i>{{ page.date | default: "1900-01-01" | date: "%Y" }} </p>       
         {% endif %}
 
+        {% if page.collection == 'teachingqtm' and page.venue %}
+          <p><i>{{ page.venue }}</i></p>       
+        {% endif %}
+          
         {% if page.collection == 'ta' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
