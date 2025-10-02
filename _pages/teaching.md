@@ -13,6 +13,6 @@ author_profile: true
 {% endfor %}
 
 ## Statistics and Coding
-{% for post in site.teachingqtm %}
+{% for post in site.teachingqtm reversed %}
   {% include archive-single.html %}
 {% endfor %}
