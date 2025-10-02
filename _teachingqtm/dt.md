@@ -1,6 +1,6 @@
 ---
 title: "AI Data Lab"
-collection: teaching
+collection: teachingqtm
 venue: "Emory Center of AI Learning"
 date: 2023-09-10
 permalink: /teaching/dt
