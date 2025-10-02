@@ -2,7 +2,7 @@
 title: "Workshop: NLP as Research Methods"
 collection: teaching
 type: "Graduate"
-permalink: /teaching/2023-spring
+permalink: /teaching/2023-spring/
 venue: "Guest lecture"
 date: 2023-02-24
 ---
