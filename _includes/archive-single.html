@@ -42,10 +42,12 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'teaching' and post.type%}
           <p> {{ post.type }}</p>
+        {% elsif post.collection == 'teachingqtm' and post.type %}
+          <p> <{{ post.type }}</p>
         {% elsif post.collection == 'teachingqtm' and post.venue %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
-        {% elsif post.collection == 'teachingqtm' and post.type%}
-          <p> {{ post.type }}</p>        
+          <p> <i><{{ post.venue }}</i></p>
+        {% elsif post.collection == 'teachingqtm' and post.type and post.venue%}
+          <p> {{ post.type }}, <i>{{ post.venue }}</i></p>        
     {% endif %}
 
     {% if post.collection == 'publications' and post.venue %}
