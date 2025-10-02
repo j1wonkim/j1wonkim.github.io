@@ -2,7 +2,7 @@
 title: "Distinct Norm Communities and Shaming Issue Choice"
 collection: publications
 permalink: /research/network/
-date: '2025-10-01'
+date: '2025-09-01'
 ---
 
 #### Abstract
