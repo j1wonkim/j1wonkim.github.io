@@ -40,11 +40,11 @@
 
 
     {% if post.collection == 'publications' and post.venue %}
-          <p style="font-size: 11px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p style="font-size: 12px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.venue %}
-          <p style="font-size: 11px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p style="font-size: 12px;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'populism' and post.excerpt %}
-          <p style="font-size: 11px;"><i>{{ post.excerpt }}</i></p>
+          <p style="font-size: 12px;"><i>{{ post.excerpt }}</i></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
