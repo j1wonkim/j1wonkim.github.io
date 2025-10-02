@@ -44,11 +44,13 @@
           <p> {{ post.type }}</p>
     {% endif %}
 
-    {% if post.collection == 'teachingqtm' and post.type and not post.venue%}
+    {% if post.collection == 'teachingqtm'%}
+        {% if post.type and not post.venue %}
           <p> {{ post.type }}</p>
-        {% elsif post.collection == 'teachingqtm' and post.venue and not post.type%}
+          {% endif %}
+        {% elsif post.venue and not post.type%}
           <p> <i><{{ post.venue }}</i></p>
-        {% elsif post.collection == 'teachingqtm' and post.type and post.venue%}
+        {% elsif post.type and post.venue%}
           <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
     {% endif %}
 
