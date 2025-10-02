@@ -1,7 +1,7 @@
 ---
 title: "Environmental Persuasion: Can Environmental Clauses Counter-Act Anti-Trade Rhetoric?" (with Stefano Jud)
 collection: publications
-permalink: /research/ise
+permalink: /research/projectgreen
 date: '2025-08-01'
 ---
 
