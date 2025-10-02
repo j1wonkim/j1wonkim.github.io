@@ -1,7 +1,6 @@
 ---
 title: "POLS490R: Research in Human Rights"
 collection: teaching
-type: "UG"
 permalink: /teaching/pols490r
 date: 2022-01-10
 ---
