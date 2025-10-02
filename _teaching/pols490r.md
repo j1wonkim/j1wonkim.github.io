@@ -3,12 +3,11 @@ title: "POLS490R: Research in Human Rights"
 collection: teaching
 type: "UG"
 permalink: /teaching/pols490r
-venue: "Department of Political Science"
 date: 2022-01-10
-location: "Emory University"
 ---
 
 With David Davis
+Emory University
 
 ## Selected Lecture Slides
 
