@@ -1,7 +1,6 @@
 ---
 title: "POLS 317: Global Human Rights"
 collection: teaching
-type: "UG"
 permalink: /teaching/pols317
 date: '2024-01-01'
 ---
