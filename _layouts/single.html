@@ -20,7 +20,7 @@ layout: default
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date" }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | default: "1900-01-01" | date: "%Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified " }}">{% endif %}
 
     <div class="page__inner-wrap">
@@ -35,13 +35,13 @@ layout: default
         {% endif %}
         
         {% if page.venue and page.collection == 'publications' %}
-          <p><i>{{ page.venue }}</i>{{ page.date }} </p>       
+          <p><i>{{ page.venue }}</i>{{ page.date | default: "1900-01-01" | date: "%Y" }} </p>       
         {% endif %}
 
         {% if page.collection == 'ta' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p><i>{{ page.venue }}</i>, {{ page.date }} </p>
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
         
              
