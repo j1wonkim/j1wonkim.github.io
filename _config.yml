@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  ta:
+  teachingqtm:
     output: true
     permalink: /:collection/:path/
   publications:
