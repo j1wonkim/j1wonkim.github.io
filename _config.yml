@@ -187,6 +187,9 @@ collections:
   populism:
     output: true
     permalink: /:collection/:path/
+  democracy:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -255,6 +258,15 @@ defaults:
   - scope:
       path: ""
       type: populism
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  # _democracy
+  - scope:
+      path: ""
+      type: democracy
     values:
       layout: single
       author_profile: true
