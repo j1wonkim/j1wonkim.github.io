@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-### International human rights shaming
+### Human rights shaming
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
@@ -22,5 +22,13 @@ author_profile: true
 ### Populist rhetoric
 
 {% for post in site.populism %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br><br>
+
+### Democratic norms
+
+{% for post in site.democracy %}
   {% include archive-single.html %}
 {% endfor %}
