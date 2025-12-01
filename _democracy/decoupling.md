@@ -1,5 +1,5 @@
 ---
-title: "Public Support for Democracy" 
+title: "Diverging Effects of Collective Threat on Democratic Attitudes" 
 collection: democracy
 permalink: /research/decoupling/
 excerpt: with Heesun Yoo
