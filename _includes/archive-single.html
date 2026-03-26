@@ -41,11 +41,11 @@
 
     {% if post.collection == 'publications' and post.venue %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
   </p>
 {% elsif post.collection == 'populism' and post.venue %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
   </p>
 {% elsif post.collection == 'populism' and post.excerpt %}
   <p style="font-size: 15px; font-weight: normal;"><i>{{ post.excerpt }}</i></p>
