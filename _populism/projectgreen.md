@@ -1,14 +1,16 @@
 ---
-title: "Environmental Persuasion: Can Environmental Clauses Counter-Act Anti-Trade Rhetoric?" 
+title: "Can Environmental Clauses in Free Trade Agreements Increase Public Support?" 
 collection: populism
 permalink: /research/projectgreen/
 excerpt: 'with Stefano Jud'
-date: '2025-08-01'
+venue: 'Global Studies Quarterly'
+pub_status: 'Forthcoming'
+date: '2026-03-26'
 ---
 
 With [Stefano Jud](https://stefanojud.com/)
 
 #### Abstract
-Recent research indicates that incorporating environmental clauses into free trade agreements (FTAs) can boost public endorsement of such agreements. However, it remains unclear whether these provisions can also sway public opinion regarding a specific FTA in the face of anti-trade rhetoric, which highlights perceived inequities within FTAs. Drawing insights from prospect theory, we posit that while environmental provisions in FTAs can enhance support, they alone cannot fully counteract the adverse effects of anti-trade rhetoric, especially when framed as a gain. Our evidence from two survey experiments conducted in the US, where respondents were presented with a hypothetical US-India trade agreement, supports this argument. Environmental provisions do not universally neutralize anti-trade narratives, regardless of whether they are framed as a loss or gain. However, they exhibit some efficacy in altering attitudes within specific subgroups, notably individuals with cosmopolitan identities. This suggests that environmental provisions in FTAs hold value when tailored for targeted voter groups, addressing concerns and garnering support within these segments.
+Recent research suggests that incorporating environmental clauses into free trade agreements (FTAs) can increase public support for trade liberalization by signaling environmental commitment and protecting domestic industries. Yet it remains unclear how such clauses perform when competing with the increasingly dominant anti-trade rhetoric that portrays trade as economically harmful or unfair. This study examines how far environmental persuasion can go under these adverse informational conditions. Drawing on two preregistered survey experiments conducted in the United States, we test how different framings of environmental clauses—highlighting global environmental cooperation, the environmental and economic losses of not signing, or the lack of protection for domestic firms—shape public attitudes toward an FTA. Across both studies, anti-trade messages sharply reduced support for the agreement, and no environmental framing fully restored the lost support to the previous level. However, environmental provisions modestly improved attitudes among specific subgroups, such as individuals with stronger cosmopolitan orientations. These findings identify the boundary conditions of environmental persuasion in trade politics: green provisions alone cannot overcome powerful loss-framed economic narratives, but they resonate with constituencies predisposed towards globalism.
 
 
