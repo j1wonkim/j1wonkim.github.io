@@ -47,6 +47,10 @@
   <p style="font-size: 15px; font-weight: normal;">
     <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
   </p>
+{% elsif post.collection == 'democracy' and post.venue %}
+  <p style="font-size: 15px; font-weight: normal;">
+    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
+  </p>
 {% endif %}
     
     {% if post.citation and post.paperurl %}
