@@ -41,14 +41,12 @@
 
     {% if post.collection == 'publications' and post.excerpt %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.excerpt }}</i><i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
   </p>
 {% elsif post.collection == 'populism' and post.venue %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.excerpt }}</i><i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
   </p>
-{% elsif post.collection == 'populism' and post.excerpt %}
-  <p style="font-size: 15px; font-weight: normal;"><i>{{ post.excerpt }}</i></p>
 {% endif %}
     
     {% if post.citation and post.paperurl %}
