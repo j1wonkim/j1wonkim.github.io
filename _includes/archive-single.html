@@ -40,12 +40,16 @@
 
 
     {% if post.collection == 'publications' and post.venue %}
-          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'populism' and post.venue %}
-          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'populism' and post.excerpt %}
-          <p style="font-size: 15px; font-weight: normal;"><i>{{ post.excerpt }}</i></p>
-    {% endif %}
+  <p style="font-size: 15px; font-weight: normal;">
+    <i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+  </p>
+{% elsif post.collection == 'populism' and post.venue %}
+  <p style="font-size: 15px; font-weight: normal;">
+    <i>{{ post.venue }}</i>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+  </p>
+{% elsif post.collection == 'populism' and post.excerpt %}
+  <p style="font-size: 15px; font-weight: normal;"><i>{{ post.excerpt }}</i></p>
+{% endif %}
     
     {% if post.citation and post.paperurl %}
       <p style="font-size: 15px; font-weight: normal;" >Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
