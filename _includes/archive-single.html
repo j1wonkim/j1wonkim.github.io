@@ -39,13 +39,13 @@
     {% endif %}
 
 
-    {% if post.collection == 'publications' and post.excerpt %}
+{% if post.collection == 'publications' and post.excerpt %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
   </p>
 {% elsif post.collection == 'populism' and post.venue %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% elsif post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    <i>{{ post.excerpt }}</i><b>{{ post.venue }}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
   </p>
 {% endif %}
     
