@@ -3,6 +3,7 @@ title: "US Human Rights Rhetoric: Strategic Deployment of Shaming, Pressuring, a
 collection: publications
 permalink: /research/ise/
 date: '2025-10-01'
+excerpt: 'Under review'
 ---
 
 #### Abstract
