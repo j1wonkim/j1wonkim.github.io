@@ -42,17 +42,17 @@
 {% if post.collection == 'publications' or post.collection == 'populism' or post.collection == 'democracy' %}
   <p style="font-size: 15px; font-weight: normal;">
     
-    {% if post.excerpt %}
-      <i>{{ post.excerpt }}</i>
+    {% if post.coauthors %}
+      <i>{{ post.coauthors }}</i>
     {% endif %}
 
     {% if post.venue %}
-      {% if post.excerpt %}, {% endif %}
+      {% if post.coauthors %}, {% endif %}
       <b>{{ post.venue }}</b>
     {% endif %}
 
     {% if post.pub_status %}
-      {% if post.excerpt or post.venue %}, {% endif %}
+      {% if post.coauthors or post.venue %}, {% endif %}
       {{ post.pub_status }}
     {% endif %}
 
