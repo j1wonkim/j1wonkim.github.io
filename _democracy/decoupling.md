@@ -2,7 +2,7 @@
 title: "Diverging Effects of Collective Threat on Democratic Attitudes" 
 collection: democracy
 permalink: /research/decoupling/
-excerpt: with Heesun Yoo
+coauthors: with Heesun Yoo
 date: '2025-11-01'
 ---
 
