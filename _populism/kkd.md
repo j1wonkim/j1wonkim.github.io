@@ -2,7 +2,7 @@
 title: "Populist Rhetoric as Interactive Strategy" 
 collection: populism
 permalink: /research/kkd/
-excerpt: with Jenn Kim, Anthony Demattee
+coauthors: with Jenn Kim, Anthony Demattee
 date: '2025-10-01'
 ---
 
