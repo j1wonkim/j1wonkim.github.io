@@ -39,17 +39,23 @@
     {% endif %}
 
 
-{% if post.collection == 'publications'%}
+{% if post.collection == 'publications' or post.collection == 'populism' or post.collection == 'democracy' %}
   <p style="font-size: 15px; font-weight: normal;">
-    <i>{% if post.exerpt %}, {{ post.excerpt }} {% endif %}</i><b>{% if post.venue %}, {{ post.venue }} {% endif %}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
-  </p>
-{% elsif post.collection == 'populism'%}
-  <p style="font-size: 15px; font-weight: normal;">
-    <i>{% if post.exerpt %}, {{ post.excerpt }} {% endif %}</i><b>{% if post.venue %}, {{ post.venue }} {% endif %}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
-  </p>
-{% elsif post.collection == 'democracy'%}
-  <p style="font-size: 15px; font-weight: normal;">
-    <i>{% if post.exerpt %}, {{ post.excerpt }} {% endif %}</i><b>{% if post.venue %}, {{ post.venue }} {% endif %}</b>{% if post.pub_status %}, {{ post.pub_status }}{% endif %}
+    
+    {% if post.excerpt %}
+      <i>{{ post.excerpt }}</i>
+    {% endif %}
+
+    {% if post.venue %}
+      {% if post.excerpt %}, {% endif %}
+      <b>{{ post.venue }}</b>
+    {% endif %}
+
+    {% if post.pub_status %}
+      {% if post.excerpt or post.venue %}, {% endif %}
+      {{ post.pub_status }}
+    {% endif %}
+
   </p>
 {% endif %}
     
