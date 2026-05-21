@@ -4,7 +4,6 @@ collection: populism
 permalink: /research/projectgreen/
 coauthors: 'with Stefano Jud'
 venue: 'Global Studies Quarterly'
-pub_status: 'Forthcoming'
 date: '2026-03-26'
 ---
 
