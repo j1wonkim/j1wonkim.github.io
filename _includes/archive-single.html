@@ -46,15 +46,16 @@
       <i>{{ post.coauthors }}</i>
     {% endif %}
 
+     {% if post.pub_status %}
+      {% if post.coauthors or post.venue %}, {% endif %}
+      {{ post.pub_status }}
+    {% endif %}
+    
     {% if post.venue %}
       {% if post.coauthors %}, {% endif %}
       <b>{{ post.venue }}</b>
     {% endif %}
 
-    {% if post.pub_status %}
-      {% if post.coauthors or post.venue %}, {% endif %}
-      {{ post.pub_status }}
-    {% endif %}
 
   </p>
 {% endif %}
