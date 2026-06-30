@@ -10,9 +10,11 @@ main:
     url: /data/
  
   - title: "Teaching"
-    url: /teaching/    
-    
-      
+    url: /teaching/
+
+  - title: "Blog"
+    url: /blog/
+
   - title: "CV"
     url: /cv/
     

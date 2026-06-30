@@ -21,7 +21,17 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "giscus", "custom"
+  giscus:
+    repo                 : "j1wonkim/j1wonkim.github.io"
+    repo_id              : "R_kgDOGdOhmg"
+    category             : "Blog Comments"
+    category_id          : "DIC_kwDOGdOhms4DALxO"
+    mapping              : "pathname"  # How to map posts to discussions
+    reactions_enabled    : "1"
+    input_position       : "top"
+    theme                : "light"
+    lang                 : "en"
   disqus:
     shortname            :
   discourse:
@@ -208,7 +218,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false
+      comments: true
       share: false
       related: false
   # _pages
