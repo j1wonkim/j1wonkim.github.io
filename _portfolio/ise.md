@@ -7,6 +7,8 @@ collection: portfolio
 Why do countries talk about each other's human rights practices? Which human rights do each country focus on enforcing, and what are their implications for the future of human rights norms and the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ### News
+* The methods part of the project has been presented at the 
+AI and Social Research: Empathic AI, Metascience, and Methodology. [![Watch the video](https://img.youtube.com/vi/p2u0GQChqnU/hqdefault.jpg)](https://youtu.be/p2u0GQChqnU?si=uVOTuATOD-C8inJ4) 
 * Data collection for US shaming is completed.
 
 ## Related Projects
