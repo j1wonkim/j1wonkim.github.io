@@ -17,7 +17,7 @@ redirect_from:
     {% assign group_label = post.date | date: '%Y' %}
   {% endif %}
   {% if group_label != written_group %}
-    <h2 id="{{ group_label | slugify }}" class="archive__subtitle">{{ group_label }}</h2>
+    <h1 id="{{ group_label | slugify }}" class="archive__subtitle">{{ group_label }}</h1>
     {% capture written_group %}{{ group_label }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
