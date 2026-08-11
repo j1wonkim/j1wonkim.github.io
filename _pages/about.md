@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a political scientist focused on translating hard-to-measure human attitudes and behaviors into data and models that predict outcomes and inform strategy. I am currently open to research and data science/analysis positions in the metro Atlanta area.
+I am a political scientist focused on translating hard-to-measure human attitudes and behaviors into data and models that predict outcomes and inform strategy. I am currently open to part-time/contract opportunities in research and data consultations.
 
 Previously, I was a Visiting Assistant Professor in the Department of Data and Decision Sciences and a Research Faculty Fellow at the [Center of AI Learning](https://ailearning.emory.edu/) at Emory University, where I partnered with NGOs to design research, inform strategic decision-making, and strengthen their data systems. My academic research has appeared or is forthcoming in *Global Studies Quarterly*.
 
