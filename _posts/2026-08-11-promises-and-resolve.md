@@ -3,6 +3,7 @@ title: "Promises and resolve()"
 categories: ["Data Scientist Learning JS"]
 date: 2026-08-11
 permalink: /posts/2026/08/promises-and-resolve/
+read_time: true
 ---
 
 **Context:** I'm a data scientist/analyst (in Python and R) learning development from scratch. Inevitably, I am learning these through the lens of what I already know. If you have a similar background and are a beginner developer, I hope these analogies help! Any comments, especially if you spot any misunderstanding, are appreciated. Commenting is caring <3
