@@ -35,9 +35,9 @@ layout: default
               <i class="fa fa-eye" aria-hidden="true"></i> <span id="view-count">-</span> views
             </p>
             <script>
-              fetch('https://api.countapi.xyz/hit/j1wonkim.github.io/{{ page.path | slugify }}')
+              fetch('https://YOURCODE.goatcounter.com/counter/' + encodeURIComponent('{{ page.url }}') + '.json')
                 .then(res => res.json())
-                .then(data => { document.getElementById('view-count').textContent = data.value; })
+                .then(data => { document.getElementById('view-count').textContent = data.count; })
                 .catch(() => { document.getElementById('view-count').textContent = '0'; });
             </script>
           {% endif %}
