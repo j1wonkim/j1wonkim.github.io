@@ -41,7 +41,7 @@ layout: default
                 .catch(() => { document.getElementById('view-count').textContent = '0'; });
             </script>
           {% endif %}
-          {% if page.date and page.collection == 'posts' %}
+              {% if page.date and page.collection == 'posts' %}
             <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
           {% endif %}
         {% if page.modified and page.collection == 'ta'%}
