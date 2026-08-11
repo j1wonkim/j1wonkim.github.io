@@ -38,14 +38,6 @@
       <p style="font-size: 15px; font-weight: normal;" class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-     {% if post.read_time %}
-      <p style="font-size: 15px; font-weight: normal;" class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-    {% if post.date %}
-      <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
-    {% endif %}
-
 {% if post.collection == 'publications' or post.collection == 'populism' or post.collection == 'democracy' %}
   <p style="font-size: 15px; font-weight: normal;">
     
