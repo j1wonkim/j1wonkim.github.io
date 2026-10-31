@@ -3,7 +3,7 @@ title: "Competing Visions of Human Rights in International Review Processes"
 collection: publications
 permalink: /research/network/
 date: '2025-09-02'
-pub_status: 'Under review / Award'
+pub_status: 'Under review / Paper award'
 ---
 
 #### Abstract
