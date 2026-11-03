@@ -11,8 +11,8 @@ redirect_from:
 
 I’m a political scientist focused on translating human attitudes, political behavior, and government rhetoric into data and models that explain and predict real-world outcomes.
 
-My academic research spans human rights and democratic norms. My work has been published in peer-reviewed journals, supported by research grants, and recognized with a paper award.
+My academic interest spans human rights, democratic norms, and political psychology. My work has been published in peer-reviewed journals, supported by research grants, and recognized with a paper award.
 
-I am an incoming Adjunct Instructor at the Oxford College of Emory University. Previously, I was a Visiting Assistant Professor in the Department of Data and Decision Sciences and a Research Faculty Fellow at the [Center of AI Learning](https://ailearning.emory.edu/) at Emory University, where I consulted on research design and data strategy for NGOs.
+I am an incoming Adjunct Instructor at the Oxford College of Emory University and an external affiliate with the [Consortium on Moral Decision-Making](https://moralconsortium.psu.edu/) at the Pennsylvania State University. Previously, I was a Visiting Assistant Professor in the Department of Data and Decision Sciences and a Research Faculty Fellow at the [Center of AI Learning](https://ailearning.emory.edu/) at Emory University, where I consulted on research design and data strategy for NGOs.
 
 I hold a Ph.D. and M.A. in Political Science from Emory University, and a dual B.A. in English Literature & Linguistics and Political Science from Sungkyunkwan University.
